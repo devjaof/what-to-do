@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+span {
+  font-weight: 700;
+
+  text-align: center;
+}
+
+p {
+  font-weight: 500;
+}
+
+div {
+  border-width: 1px;
+  border-color: black;
+
+  border-style: solid;
+  border-radius: 10px;
+
+  padding: 20px;
+}
